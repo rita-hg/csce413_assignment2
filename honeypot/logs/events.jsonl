@@ -1,0 +1,42 @@
+{"event_type": "connection_open", "conn_id": "1770691663576-172.20.0.1:34532", "src_ip": "172.20.0.1", "src_port": 34532, "ts": "2026-02-10T02:47:43Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691663576-172.20.0.1:34532", "src_ip": "172.20.0.1", "src_port": 34532, "username": "admin", "password": " ", "try": 1, "ts": "2026-02-10T02:47:49Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691663576-172.20.0.1:34532", "src_ip": "172.20.0.1", "src_port": 34532, "username": "admin", "password": " ", "try": 2, "ts": "2026-02-10T02:47:58Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691663576-172.20.0.1:34532", "src_ip": "172.20.0.1", "src_port": 34532, "username": "admin", "password": "\u001b", "try": 3, "ts": "2026-02-10T02:48:00Z"}
+{"event_type": "connection_close", "conn_id": "1770691663576-172.20.0.1:34532", "src_ip": "172.20.0.1", "src_port": 34532, "duration_seconds": 17.299, "ts": "2026-02-10T02:48:00Z"}
+{"event_type": "connection_open", "conn_id": "1770691687124-172.20.0.1:55872", "src_ip": "172.20.0.1", "src_port": 55872, "ts": "2026-02-10T02:48:07Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691687124-172.20.0.1:55872", "src_ip": "172.20.0.1", "src_port": 55872, "username": "root", "password": " ", "try": 1, "ts": "2026-02-10T02:48:08Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691687124-172.20.0.1:55872", "src_ip": "172.20.0.1", "src_port": 55872, "username": "root", "password": " ", "try": 2, "ts": "2026-02-10T02:48:10Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691687124-172.20.0.1:55872", "src_ip": "172.20.0.1", "src_port": 55872, "username": "root", "password": "\u001b", "try": 3, "ts": "2026-02-10T02:48:11Z"}
+{"event_type": "connection_close", "conn_id": "1770691687124-172.20.0.1:55872", "src_ip": "172.20.0.1", "src_port": 55872, "duration_seconds": 5.434, "ts": "2026-02-10T02:48:12Z"}
+{"event_type": "connection_open", "conn_id": "1770691807073-172.20.0.1:34850", "src_ip": "172.20.0.1", "src_port": 34850, "ts": "2026-02-10T02:50:07Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691807073-172.20.0.1:34850", "src_ip": "172.20.0.1", "src_port": 34850, "username": "root", "password": " ", "try": 1, "ts": "2026-02-10T02:50:08Z"}
+{"event_type": "auth_attempt", "conn_id": "1770691807073-172.20.0.1:34850", "src_ip": "172.20.0.1", "src_port": 34850, "username": "root", "password": " ", "try": 2, "ts": "2026-02-10T02:50:09Z"}
+{"event_type": "connection_close", "conn_id": "1770691807073-172.20.0.1:34850", "src_ip": "172.20.0.1", "src_port": 34850, "duration_seconds": 20.049, "ts": "2026-02-10T02:50:27Z"}
+{"event_type": "connection_open", "conn_id": "1770692381929-172.20.0.1:34948", "src_ip": "172.20.0.1", "src_port": 34948, "ts": "2026-02-10T02:59:41Z"}
+{"event_type": "auth_attempt", "conn_id": "1770692381929-172.20.0.1:34948", "src_ip": "172.20.0.1", "src_port": 34948, "username": "root", "password": "\u001b", "try": 1, "ts": "2026-02-10T02:59:44Z"}
+{"event_type": "auth_attempt", "conn_id": "1770692381929-172.20.0.1:34948", "src_ip": "172.20.0.1", "src_port": 34948, "username": "root", "password": "", "try": 2, "ts": "2026-02-10T02:59:45Z"}
+{"event_type": "auth_attempt", "conn_id": "1770692381929-172.20.0.1:34948", "src_ip": "172.20.0.1", "src_port": 34948, "username": "root", "password": "\u001b", "try": 3, "ts": "2026-02-10T02:59:46Z"}
+{"event_type": "connection_close", "conn_id": "1770692381929-172.20.0.1:34948", "src_ip": "172.20.0.1", "src_port": 34948, "duration_seconds": 5.69, "ts": "2026-02-10T02:59:47Z"}
+{"event_type": "connection_open", "conn_id": "1770692828616-172.20.0.1:49458", "src_ip": "172.20.0.1", "src_port": 49458, "ts": "2026-02-10T03:07:08Z"}
+{"event_type": "error", "conn_id": "1770692828616-172.20.0.1:49458", "src_ip": "172.20.0.1", "src_port": 49458, "error": "exception", "ts": "2026-02-10T03:07:08Z"}
+{"event_type": "connection_close", "conn_id": "1770692828616-172.20.0.1:49458", "src_ip": "172.20.0.1", "src_port": 49458, "duration_seconds": 0.084, "ts": "2026-02-10T03:07:08Z"}
+{"event_type": "connection_open", "conn_id": "1770692903513-172.20.0.1:52986", "src_ip": "172.20.0.1", "src_port": 52986, "ts": "2026-02-10T03:08:23Z"}
+{"event_type": "error", "conn_id": "1770692903513-172.20.0.1:52986", "src_ip": "172.20.0.1", "src_port": 52986, "error": "exception", "ts": "2026-02-10T03:08:23Z"}
+{"event_type": "connection_close", "conn_id": "1770692903513-172.20.0.1:52986", "src_ip": "172.20.0.1", "src_port": 52986, "duration_seconds": 0.058, "ts": "2026-02-10T03:08:23Z"}
+{"event_type": "connection_open", "conn_id": "1770693784581-172.20.0.1:39574", "src_ip": "172.20.0.1", "src_port": 39574, "ts": "2026-02-10T03:23:04Z"}
+{"event_type": "error", "conn_id": "1770693784581-172.20.0.1:39574", "src_ip": "172.20.0.1", "src_port": 39574, "error": "exception", "ts": "2026-02-10T03:24:10Z"}
+{"event_type": "connection_close", "conn_id": "1770693784581-172.20.0.1:39574", "src_ip": "172.20.0.1", "src_port": 39574, "duration_seconds": 65.574, "ts": "2026-02-10T03:24:10Z"}
+{"event_type": "connection_open", "conn_id": "1770694140096-172.20.0.1:45218", "src_ip": "172.20.0.1", "src_port": 45218, "ts": "2026-02-10T03:29:00Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694140096-172.20.0.1:45218", "src_ip": "172.20.0.1", "src_port": 45218, "username": "root", "password": "hellpo", "try": 1, "ts": "2026-02-10T03:29:11Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694140096-172.20.0.1:45218", "src_ip": "172.20.0.1", "src_port": 45218, "username": "root", "password": "hello", "try": 2, "ts": "2026-02-10T03:29:14Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694140096-172.20.0.1:45218", "src_ip": "172.20.0.1", "src_port": 45218, "username": "root", "password": "yes", "try": 3, "ts": "2026-02-10T03:29:17Z"}
+{"event_type": "connection_close", "conn_id": "1770694140096-172.20.0.1:45218", "src_ip": "172.20.0.1", "src_port": 45218, "duration_seconds": 18.55, "ts": "2026-02-10T03:29:18Z"}
+{"event_type": "connection_open", "conn_id": "1770694312851-172.20.0.1:42298", "src_ip": "172.20.0.1", "src_port": 42298, "ts": "2026-02-10T03:31:52Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694312851-172.20.0.1:42298", "src_ip": "172.20.0.1", "src_port": 42298, "username": "admin", "password": "hello", "try": 1, "ts": "2026-02-10T03:32:00Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694312851-172.20.0.1:42298", "src_ip": "172.20.0.1", "src_port": 42298, "username": "admin", "password": "password123", "try": 2, "ts": "2026-02-10T03:32:06Z"}
+{"event_type": "connection_close", "conn_id": "1770694312851-172.20.0.1:42298", "src_ip": "172.20.0.1", "src_port": 42298, "duration_seconds": 20.039, "ts": "2026-02-10T03:32:12Z"}
+{"event_type": "connection_open", "conn_id": "1770694470166-172.20.0.1:58728", "src_ip": "172.20.0.1", "src_port": 58728, "ts": "2026-02-10T03:34:30Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694470166-172.20.0.1:58728", "src_ip": "172.20.0.1", "src_port": 58728, "username": "root", "password": "hello", "try": 1, "ts": "2026-02-10T03:34:38Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694470166-172.20.0.1:58728", "src_ip": "172.20.0.1", "src_port": 58728, "username": "root", "password": "password123", "try": 2, "ts": "2026-02-10T03:34:44Z"}
+{"event_type": "auth_attempt", "conn_id": "1770694470166-172.20.0.1:58728", "src_ip": "172.20.0.1", "src_port": 58728, "username": "root", "password": "\u001b", "try": 3, "ts": "2026-02-10T03:34:49Z"}
+{"event_type": "connection_close", "conn_id": "1770694470166-172.20.0.1:58728", "src_ip": "172.20.0.1", "src_port": 58728, "duration_seconds": 19.759, "ts": "2026-02-10T03:34:49Z"}
